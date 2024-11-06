@@ -4,7 +4,7 @@ A highly configurable accordion built using Tailwind CSS
 
 ## Usage
 
-i. Takes in data input in this schema:
+i. Takes in data input in this `schema`:
 
 ```
 [
@@ -20,7 +20,7 @@ ii. Pass in properties for configuration
 
 ```
 {
-    showOne: bool,
+    isOpen: bool,
     showWordCount: bool
     handleToggle: fn(){}
 }

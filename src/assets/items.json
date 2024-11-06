@@ -1,0 +1,32 @@
+[
+  {
+    "id": "c513a61a-b19a-4869-95c6-d33f543b7b2d",
+    "title": "React",
+    "description": "React is a JavaScript library to build interactive user interaces like this one."
+  },
+  {
+    "id": "9fe82fdd-cc62-465e-87ea-ab7705900777",
+    "title": "Flutter",
+    "description": "Built by the Google team, flutter ecompasses cross-platform applications from a single codebase."
+  },
+  {
+    "id": "a0316a1e-a724-4e11-8900-d84fee19d5cd",
+    "title": "Next.js",
+    "description": "It is a full-stack react framework used to build awesome applications."
+  },
+  {
+    "id": "3bb7ceb8-472c-4335-bf97-3820ad692039",
+    "title": "GSAP",
+    "description": "Green Sock Animation Project, it is used to add animations using JavaScript in our web applications."
+  },
+  {
+    "id": "aaf531a2-94c7-49d0-94bd-30d4f9642c7c",
+    "title": "Spring",
+    "description": "Stupid Java frameworks that comes in unknown numbers of flavors including hibernate, hibernate plus!"
+  },
+  {
+    "id": "f32ec26b-cb03-4d82-886b-820ef2337ff5",
+    "title": "Tauri",
+    "description": "Here comes the future of cross-platform applications. Built using Rust!"
+  }
+]
