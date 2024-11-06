@@ -9,7 +9,7 @@ const App = () => {
         <h1 className="text-xl sm:text-2xl md:text-4xl mb-7 font-medium">
           Easter.Accordion
         </h1>
-        <Eastar dataList={items} isOpen={true} />
+        <Eastar dataList={items} isOpen={false} showWordCount={true} />
       </section>
     </main>
   );

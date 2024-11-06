@@ -2,7 +2,7 @@
 import React from "react";
 import SingleAccordion from "./SingleAccordion";
 
-const Eastar = ({ dataList, isOpen = false }) => {
+const Eastar = ({ dataList, isOpen = false, showWordCount = false }) => {
   return (
     <div className="grid gap-2">
       {dataList.length === 0 ? (
@@ -15,6 +15,7 @@ const Eastar = ({ dataList, isOpen = false }) => {
             title={data.title}
             description={data.description}
             active={isOpen}
+            showWordCount={showWordCount}
           />
         ))
       )}
